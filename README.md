@@ -79,8 +79,7 @@ It demonstrates skills in data cleaning, EDA, visualization, geospatial mapping,
 Dataset link: Google Drive
 
 📧 Contact
-LinkedIn: Sujal Deshmukh
 
-Email: sujaldeshmukhwork@gmail.com
-
-GitHub: Sujald06
+- **LinkedIn:** [Sujal Deshmukh](https://www.linkedin.com/in/sujal-deshmukh-a93060349/)  
+- **Email:** sujaldeshmukhwork@gmail.com  
+- **GitHub:** [Sujald06](https://github.com/Sujald06)
