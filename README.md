@@ -52,14 +52,6 @@ The project explores and analyzes a restaurant dataset to uncover insights about
 
 ---
 
-## 📈 Sample Visualizations
-*(Screenshots or preview images of your charts can go here)*
-
-| Cuisine Distribution | Price Range Histogram | Restaurant Locations |
-|----------------------|-----------------------|----------------------|
-| ![Cuisine Chart](https://via.placeholder.com/300x200.png?text=Cuisine+Chart) | ![Price Chart](https://via.placeholder.com/300x200.png?text=Price+Histogram) | ![Map Chart](https://via.placeholder.com/300x200.png?text=Map) |
-
----
 
 ## 🚀 How to Use
 1. Clone the repository  
