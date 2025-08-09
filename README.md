@@ -80,14 +80,4 @@ Dataset used: [Google Drive Link](https://drive.google.com/drive/folders/1zuLJbb
 * Email: [sujaldeshmukhwork@gmail.com](mailto:sujaldeshmukhwork@gmail.com)
 * GitHub: [Sujald06](https://github.com/Sujald06)
 
-```
 
----
-
-If you upload this as your **README.md** in GitHub, anyone can:
-- **Click the Colab badge** to open your notebook instantly.
-- **Access your dataset** from your Google Drive link.
-- See your contact info directly.  
-
-Do you want me to also make a **fancier version** with screenshots of your charts for extra visual appeal? That would really impress recruiters.
-```
